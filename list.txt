@@ -9,3 +9,15 @@ golang.org##.Header-banner
 
 ! 2021-10-13 https://www.youtube.com
 www.youtube.com###clarify-box
+
+! 2021-10-13 https://www.electronjs.org
+www.electronjs.org##.announcement-banner
+
+! 2021-10-13 https://www.etsy.com
+www.etsy.com##.footer-impact-callout
+
+! 2021-10-13 https://www.airbnb.com.au
+www.airbnb.com.au##[data-section-id=EXPLORE_NAVIGATION_ALERT]
+
+! 2021-10-13 https://www.uber.com
+www.uber.com##[aria-label="Read the COVID-19 resources"]
