@@ -12,4 +12,10 @@ Example of content blocked:
 ## Install HappyList
 
 1. Install [uBlock Origin](https://ublockorigin.com/)
-4. [Add the following URL](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) as an external filter list: `https://raw.githubusercontent.com/antixhuman/HappyList/master/list.txt` 
+2. [Add the following URL](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) as an external filter list: `https://raw.githubusercontent.com/antixhuman/HappyList/master/list.txt` 
+
+## How to help
+
+[Report content that needs to be blocked](https://github.com/antixhuman/HappyList/issues/new)
+
+Or, if you know how, create a PR with the new filters.
