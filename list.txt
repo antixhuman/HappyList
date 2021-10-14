@@ -1,4 +1,8 @@
+[Adblock Plus 2.0]
+! Version: 0.0.1
 ! Title: HappyList
+! Updated: 2021-10-14 00:00 UTC
+! Expires: 7 days (update frequency)
 
 ! 2021-10-13 https://golang.org
 golang.org##.Header-banner
