@@ -1,4 +1,4 @@
-# HappyList
+# ☺️ HappyList ☺️
 
 HappyList blocks corporate activism and similar content.
 
