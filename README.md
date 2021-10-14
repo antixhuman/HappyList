@@ -1,2 +1,15 @@
 # HappyList
-HappyList is an ad blocker filter list which targets corporate activism and similar content
+
+HappyList blocks corporate activism and similar content.
+
+Example of content blocked:
+
+* Banners supporting current social or political movements
+* Corporate logos coloured to celebrate or commemorate social/political movements
+* Info boxes attempting to fact check heterodox opinions
+* Content soliciting donations for pseudo-charitable organisations
+
+## Install HappyList
+
+1. Install [uBlock Origin](https://ublockorigin.com/)
+4. Add `https://raw.githubusercontent.com/antixhuman/HappyList/master/list.txt` as an [external filter list](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
