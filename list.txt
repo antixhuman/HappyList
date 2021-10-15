@@ -4,20 +4,22 @@
 ! Updated: 2021-10-14 00:00 UTC
 ! Expires: 7 days (update frequency)
 
-! 2021-10-13 https://golang.org
+! BLM
 golang.org##.Header-banner
-
-! 2021-10-13 https://www.youtube.com
-www.youtube.com###clarify-box
-
-! 2021-10-13 https://www.electronjs.org
 www.electronjs.org##.announcement-banner
 
-! 2021-10-13 https://www.etsy.com
+! Climate change
 www.etsy.com##.footer-impact-callout
 
-! 2021-10-13 https://www.airbnb.com.au
+! COVID-19
+au.yahoo.com###feat-bar
 www.airbnb.com.au##[data-section-id=EXPLORE_NAVIGATION_ALERT]
-
-! 2021-10-13 https://www.uber.com
+www.apple.com##.covid-ribbon-copy
+www.qantas.com###topAlert
+www.sony.com##.extra-news [href="/en/SonyInfo/covid_19_response/"]
 www.uber.com##[aria-label="Read the COVID-19 resources"]
+www.youtube.com###clarify-box
+www.youtube.com##.ytd-rich-section-renderer > .ytd-statement-banner-renderer
+
+! Democracy
+www.washingtonpost.com##.masthead-tagline
